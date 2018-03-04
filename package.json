@@ -1,0 +1,14 @@
+{
+  "name": "form-app",
+  "version": "1.0.0",
+  "description": "A form App written with angular js",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Onuwa Nnachi Isaac <matrix4u2002@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
